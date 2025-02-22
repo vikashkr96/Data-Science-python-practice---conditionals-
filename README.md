@@ -4,7 +4,7 @@
 
 * **Write a Python program that takes a number as input and prints whether it is positive, negative, or zero.**
 
-* you can check the code by clicking on the file "task_day2.py"
+* you can check the code by clicking on the file "task_day_2.py"
 
    
 
